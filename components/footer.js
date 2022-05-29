@@ -13,7 +13,7 @@ export default function Footer() {
             <i className="bi bi-youtube"></i>
           </a>
         </div>
-        <p className="text-uppercase text-center text-white" style={{ fontSize: '12px' }}>Todos os direitos reservados © 2022 - Mega Black</p>
+        <p className="text-uppercase text-center text-white m-0" style={{ fontSize: '12px' }}>Todos os direitos reservados © 2022 - Mega Black</p>
       </div>
     </footer>
   )
