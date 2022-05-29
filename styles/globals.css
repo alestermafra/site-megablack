@@ -1,16 +1,15 @@
-html,
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+header {
+  background-image: url('/images/dj-leo-e-dj-dim.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
-* {
-  box-sizing: border-box;
+.font-family-bebas-neue {
+  font-family: 'Bebas Neue', cursive;
 }
