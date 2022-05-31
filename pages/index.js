@@ -7,7 +7,7 @@ import events from '../data/events.json'
 
 export default function Home() {
   return (
-    <div class="page" style={{backgroundColor: '#000', color: "#fff"}}>
+    <div className="page" style={{backgroundColor: '#000', color: "#fff"}}>
       <Head>
         <title>Mega Black</title>
         <link rel="icon" href="/favicon.ico" />
